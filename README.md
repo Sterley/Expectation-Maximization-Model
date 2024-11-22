@@ -1,3 +1,3 @@
 The aim of this project is to implement the Expectation Maximization (EM) algorithm to estimate the parameters of a Gaussian mixture model (GMM) from a set of observable data. The GMM model is composed of K Gaussians, where each Gaussian is associated with a discrete hidden variable Y and an observable variable X which follows a normal distribution whose parameters depend on the value taken by the hidden variable. The EM algorithm is used to estimate the model parameters from the observable data. The data set provided includes 500 points of dimension 2. The algorithm is implemented using K = 3.
 
-## For more information, See the report !
+## For more information, check the report !
